@@ -17,4 +17,4 @@ This project's goal is to study Indian agriculture using district- and year-spec
 In summary, this project utilized Microsoft Power BI to visualize district- and year-specific agricultural data, providing insights into trends, disparities, and opportunities for sustainable farming in India. The analysis enhances understanding of agricultural dynamics, aiding stakeholders in informed decision-making for policy and resource allocation.
 
 ## Presentation Link:
-https://drive.google.com/file/d/1Geh08fgMh4N8g8-Cr2KIQ31_vf-RvOlI/view?usp=drive_link
+For getting presentation video of this project please, [Click Here](https://drive.google.com/file/d/1Geh08fgMh4N8g8-Cr2KIQ31_vf-RvOlI/view?usp=drive_link) .
